@@ -2,7 +2,7 @@
 
 🌐 [Ler em português](./README.md)
 
-**Quality Assurance (QA) Engineer** focused on functional testing, regression, API testing and performance — currently validating capacity and resilience for critical financial systems, with support from AI agents to automate results analysis.
+**Quality Assurance (QA) Engineer** focused on functional testing, regression, API testing and performance, with support from AI agents to automate results analysis.
 
 📍 São Paulo, Brazil (open to **remote** roles) · ✉️ gabrielavkano@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/gabrielaventurakano/)
 
@@ -16,7 +16,7 @@
 
 ### 🧭 About me
 
-I've worked in QA for over 4 years, across mobile products (iOS/Android), web platforms and, currently, high-criticality banking systems (PIX and others). My day-to-day combines functional and regression testing with **performance testing in JMeter**, **log analysis** (Splunk, Dynatrace, CloudRun) and **data validation** via SQL and MongoDB. I'm expanding into **test automation** (Cypress and Playwright) and **AI-assisted QA workflows**, looking for a senior remote position where I can bring together product quality, data and automation.
+I've been working in QA for 5 years, across mobile products (iOS/Android), web platforms, and highly critical legacy systems. My routine combines functional and regression testing with **performance testing in JMeter**, **log analysis** (CloudRun), and **data validation** via SQL and MongoDB. I'm expanding my work in **test automation** (Cypress and Playwright) and **AI-supported QA workflows**.
 
 ### ✅ Types of testing I've applied
 
@@ -62,10 +62,6 @@ I've worked in QA for over 4 years, across mobile products (iOS/Android), web pl
 ---
 
 ### 💼 Recent experience
-
-**B3 — Mid-level Quality Engineer** *(current)*
-Capacity/performance testing (JMeter) on B3 Bank's critical systems, monitoring via Dynatrace/Splunk, Power BI dashboards, and automating report analysis with AI agents.
-`Scalability testing` `Load testing` `Risk-based testing`
 
 **Valid S.A. — Mid-level Quality Engineer**
 Performance testing on web services (JMeter), automation with Cypress, API testing (Postman) and data validation (SQL/MongoDB).
