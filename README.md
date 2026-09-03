@@ -2,7 +2,7 @@
 
 🌐 [Read this in English](./README.en.md)
 
-**Engenheira de Qualidade (QA)** com foco em testes funcionais, regressão, APIs e performance — hoje trabalhando na validação de capacidade e resiliência de sistemas financeiros críticos, com apoio de agentes de IA na automação da análise de resultados.
+**Engenheira de Qualidade (QA)** com foco em testes funcionais, regressão, APIs e performance, com apoio de agentes de IA na automação da análise de resultados.
 
 📍 São Paulo, Brasil · ✉️ gabrielavkano@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/gabrielaventurakano/)
 
@@ -16,7 +16,7 @@
 
 ### 🧭 Sobre mim
 
-Atuo como QA há mais de 4 anos, passando por produtos mobile (iOS/Android), plataformas web e, atualmente, sistemas bancários de alta criticidade (PIX e outros). Minha rotina combina testes funcionais e de regressão com **testes de performance em JMeter**, **análise de logs** (Splunk, Dynatrace, CloudRun) e **validação de dados** via SQL e MongoDB. Estou expandindo minha atuação em **automação de testes** (Cypress e Playwright) e em **fluxos de QA apoiados por IA**.
+Atuo como QA há 5 anos, passando por produtos mobile (iOS/Android), plataformas web e sistemas legados de alta criticidade. Minha rotina combina testes funcionais e de regressão com **testes de performance em JMeter**, **análise de logs** (CloudRun) e **validação de dados** via SQL e MongoDB. Estou expandindo minha atuação em **automação de testes** (Cypress e Playwright) e em **fluxos de QA apoiados por IA**.
 
 ### ✅ Tipos de teste que já apliquei
 
@@ -62,10 +62,6 @@ Atuo como QA há mais de 4 anos, passando por produtos mobile (iOS/Android), pla
 ---
 
 ### 💼 Experiência recente
-
-**B3 — Engenheira de Qualidade Pleno** *(atual)*
-Testes de capacidade/performance (JMeter) em sistemas críticos do Banco B3, monitoramento via Dynatrace/Splunk, dashboards em Power BI e automação da análise de relatórios com agentes de IA.
-`Teste de escalabilidade` `Load testing` `Testes baseados em risco`
 
 **Valid S.A. — Engenheira de Qualidade Pleno**
 Performance em webservices (JMeter), automação com Cypress, testes de API (Postman) e validação de dados (SQL/MongoDB).
