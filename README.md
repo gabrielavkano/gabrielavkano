@@ -13,68 +13,85 @@
 </picture>
 
 ---
-
 ### 🧭 Sobre mim
 
-Atuo como QA há 5 anos, passando por produtos mobile (iOS/Android), plataformas web e sistemas legados de alta criticidade. Minha rotina combina testes funcionais e de regressão com **testes de performance em JMeter**, **análise de logs** (CloudRun) e **validação de dados** via SQL e MongoDB. Estou expandindo minha atuação em **automação de testes** (Cypress e Playwright) e em **fluxos de QA apoiados por IA**.
+Atuo como QA há 5 anos em sistemas de alta criticidade dos setores logístico, varejo e identificação digital, passando por produtos mobile (iOS/Android), plataformas web e sistemas legados.
+
+Hoje trabalho com automação em **Playwright** para plataformas de logística e supply chain no ecossistema **nstech**, apoiada por agentes de IA (**Claude Code**, **GitHub Copilot** e **agentes do Playwright**).
+
+Minha trajetória combina **testes de performance (JMeter)**, **análise de logs** (CloudRun), **validação de dados** (SQL, MongoDB, DBeaver) e **indicadores de qualidade em Power BI**.
 
 ### ✅ Tipos de teste que já apliquei
 
-`Testes funcionais` `Regressão` `Smoke testing` `Sanity testing` `Testes exploratórios` `E2E` `Integração` `UAT` `Testes baseados em risco` `Load testing` `Teste de escalabilidade` `Contract testing` `Validação de schema/response de API` `Test Case Review` `Teste de segurança` `Teste de acessibilidade` `Teste de compatibilidade (BrowserStack e device físico)` `Teste de instalação/atualização`
+`Testes funcionais` `Regressão` `Smoke testing` `Sanity testing` `Testes exploratórios` `E2E` `Integração` `UAT` `Testes baseados em risco` `Testes de capacidade` `Testes de resiliência` `Load testing` `Teste de escalabilidade` `Contract testing` `Validação de schema/response de API` `Test Case Review` `Teste de segurança` `Teste de acessibilidade` `Teste de compatibilidade (BrowserStack e device físico)` `Teste de instalação/atualização`
 
 ### 🛠️ Stack e ferramentas
 
-**Testes & Qualidade**
-`Testes Funcionais` `Regressão` `Testes de API` `BDD / Gherkin` `Postman`
-
-**Automação (em evolução)**
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+**Automação de testes**
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+`HTML/CSS` `Extensões de VS Code` `Git`
 
-**Performance**
+**Testes de API e performance**
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+`BDD / Gherkin`
 
 **Dados & Observabilidade**
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
-`Splunk` `Dynatrace` `Power BI`
+`CloudRun` `Power BI (dashboards de qualidade)`
 
 **Processos & Gestão**
-`Jira` `Confluence` `Zephyr Scale` `TestRail` `ClickUp` `Scrum` `Kanban`
+`Azure DevOps` `Jira` `Confluence` `Zephyr Scale` `TestRail` `ClickUp` `Scrum` `Kanban`
 
 **IA aplicada a QA**
-`Apoio à automação de análise de relatórios de teste com agentes de IA` `GitHub Copilot`
+`Claude Code` `GitHub Copilot` `Agentes do Playwright (planner, generator, healer)` `Geração de casos de teste BDD com GitHub Copilot`
 
 ---
 
 ### 📌 Projetos em destaque
 
-| Projeto                                                                                            | O que demonstra                                                                                                        |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 🧪[`cypress-qa-automation`](https://github.com/gabrielavkano/cypress-qa-automation)               | Projeto de estudo de automação E2E com **Cypress**, aplicando no dia a dia o que já uso no trabalho            |
-| 🎭[`playwright-qa-automation`](https://github.com/gabrielavkano/playwright-qa-automation)         | Os mesmos fluxos refeitos em **Playwright**, como exercício de comparação entre as duas ferramentas            |
-| ⚡[`api-performance-testing`](https://github.com/gabrielavkano/api-performance-testing)           | Teste de carga simples com **JMeter** e testes funcionais de API com **Postman**                            |
-| 🗄️[`sql-mongodb-data-validation`](https://github.com/gabrielavkano/sql-mongodb-data-validation) | Queries de validação de dados com **SQL (DBeaver)** e **MongoDB**                                         |
-| 🤖[`qa-ai-report-agent`](https://github.com/gabrielavkano/qa-ai-report-agent)                     | Script em **Node.js** que lê resultados de teste de performance e gera um resumo automático baseado em regras |
+| Projeto                                                                                               | O que demonstra                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🧪 [`qa-copilot-testcase-extension`](https://github.com/gabrielavkano/qa-copilot-testcase-extension) | Extensão de VS Code em **TypeScript** que gera casos de teste em **Gherkin/BDD** a partir de user stories, usando os modelos do **GitHub Copilot** |
+| 📊 [`report-semanal-qa`](https://github.com/gabrielavkano/report-semanal-qa)                         | Ferramenta em **HTML, CSS e JavaScript** que gera um flyer com os números da semana de QA para enviar aos gestores, com exportação em PNG e backup em JSON   |
 
 ---
 
-### 💼 Experiência recente
+### 💼 Experiência
 
-**Valid S.A. — Engenheira de Qualidade Pleno**
-Performance em webservices (JMeter), automação com Cypress, testes de API (Postman) e validação de dados (SQL/MongoDB).
+**BRK (ecossistema nstech) — Engenheira de Qualidade Pleno** · *09/2026 – atual*
+Testes funcionais e automação de fluxos críticos com apoio de agentes de IA, em squad voltada a gerenciamento de riscos, gestão logística e prevenção de acidentes no transporte de cargas. Planos de teste no Azure DevOps, automação com Playwright e seus agentes, integração com pipelines do Azure DevOps, testes de API com Postman e versionamento com Git.
+`E2E automatizado` `Regressão` `Testes funcionais` `Integração`
+
+**Valid S.A. — Engenheira de Qualidade Pleno** · *08/2024 – 06/2026*
+Testes de performance, funcionais e de API em webservices e sistemas web: JMeter, automação com Cypress, Postman em ambiente GCP com logs no CloudRun e validação de dados com SQL/MongoDB.
 `Smoke testing` `Sanity testing` `Testes exploratórios` `E2E` `Integração` `Load testing` `Contract testing` `Validação de schema/response de API` `Test Case Review`
 
-**Certta — Engenheira de Qualidade**
-Testes funcionais e de processo, com forte atuação em validação junto ao negócio antes de release.
+**Certta — Engenheira de Qualidade Pleno** · *01/2023 – 03/2024*
+Testes funcionais, de regressão e de API em plataformas web, com foco em validações de biometria e documentos (OCR, FaceMatch, Liveness) em fluxos de onboarding.
 `UAT` `Sanity testing` `Testes exploratórios` `E2E` `Integração` `Teste de segurança` `Teste de acessibilidade`
 
-**Tok&Stok — Engenheira de Qualidade**
-Testes funcionais e mobile (iOS/Android), incluindo compatibilidade entre dispositivos e navegadores.
+**Tok&Stok — Engenheira de Qualidade Pleno (QA Lead)** · *05/2022 – 12/2022*
+QA Lead na tribo Channels, liderando a garantia de qualidade em times ágeis e testes manuais de aplicações mobile.
 `Smoke testing` `Sanity testing` `Testes exploratórios` `E2E` `Teste de acessibilidade` `Teste de compatibilidade (BrowserStack e device físico)` `Teste de instalação/atualização`
+
+**Tok&Stok — Engenheira de Qualidade Júnior** · *08/2021 – 05/2022*
+Testes manuais em aplicações mobile, planos de teste no TestRail e validação de builds com TestFlight e Firebase.
+`Smoke testing` `Sanity testing` `Testes exploratórios` `E2E` `Teste de compatibilidade (BrowserStack e device físico)` `Teste de instalação/atualização`
+
+---
 
 ### 🎓 Certificações
 
-Teste de Performance com JMeter · Quality Assurance: plano de testes e gestão de bugs · Formação Engenharia de Software
+Teste de Performance com JMeter · Quality Assurance: plano de testes e gestão de bugs · Formação Engenharia de Software · OKR – Objectives and Key Results · Playwright: Web Automation Testing From Zero to Hero · JavaScript para QAs
+
+### 🌎 Idiomas
+
+Inglês: Avançado (C1)
